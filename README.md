@@ -5,7 +5,7 @@ Repository for ECE 524: Radio System Design @NC State University
 This repository contains projects focused on radio system design and simulation. All designs are implemented using Cadence AWR Microwave Office, a professional RF/microwave design software.
 
 ## Final Project
-A 950 MHz QAM Transmitter
+A 950 MHz QAM Reciever
 
 ## Course Tools
 - Primary Software: Cadence AWR Microwave Office
